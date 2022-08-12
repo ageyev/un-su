@@ -1,4 +1,4 @@
-draft, ver. 1.2.1 of 2022-07-01 17:30
+draft, ver. 1.2.2 of 2022-08-12 14:20
 
 See also accompanying [Explanatory memorandum](/Explanatory_memorandum.md)
 
@@ -22,8 +22,8 @@ Decides that this Resolution shall not have retroactive effect, and shall not in
 
 Proclaims the desire to see Russia as a future member of the UN, provided that in the future it fulfills the conditions for membership provided for by the UN Charter, including the requirement to be a peace-loving state. 
 
-...th plenary meeting,
+77th plenary meeting,
 
-... July 2022 
+... September 2022 
 
 -------------------- 
