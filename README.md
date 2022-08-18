@@ -8,6 +8,6 @@
 
 ---------- 
 
-[Wiki](https://github.com/ageyev/un-su/wiki)**
+[Wiki](https://github.com/ageyev/un-su/wiki) 
 
 
