@@ -1,5 +1,7 @@
 ### Membership of the Soviet Union in the UN 
 
+How to expel the representatives of the Putin's government from the seat of defunct Soviet Union at the UN
+
 [Draft of the General Assembly resolution](https://github.com/ageyev/un-su/blob/main/GA_Resolution.md)
 
 [Explanatory memorandum accompanying the draft of the General Assembly resolution](https://github.com/ageyev/un-su/blob/main/Explanatory_memorandum.md)
