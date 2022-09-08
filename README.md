@@ -8,6 +8,8 @@
 
 [How to overcome the "veto power" in the UN Security Council](https://github.com/ageyev/un-su/blob/main/un_sc_voting.md) 
 
+[UN recognition that a UN member state has ceased to exist](https://github.com/ageyev/un-su/blob/main/ceased_to_exist.md)
+
 [Звернення до Президента України](https://github.com/ageyev/un-su/blob/main/Zvernennya_do_Prezydenta.md) (in Ukrainian)
 
 ---------- 
