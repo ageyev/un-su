@@ -6,7 +6,7 @@ How to expel the representatives of the Putin's government from the seat of defu
 
 [Explanatory memorandum accompanying the draft of the General Assembly resolution](https://github.com/ageyev/un-su/blob/main/Explanatory_memorandum.md)
 
-[Cover letter for resolution and memorandum drafts](https://github.com/ageyev/un-su/blob/main/Suprovidny_lyst.md)(in Ukrainian)
+[Cover letter for resolution and memorandum drafts (Як усунути РФ з ООН та відновити роботу Ради Безпеки)](https://github.com/ageyev/un-su/blob/main/Suprovidny_lyst.md)(in Ukrainian)
 
 [How to overcome the "veto power" in the UN Security Council](https://github.com/ageyev/un-su/blob/main/un_sc_voting.md) 
 
