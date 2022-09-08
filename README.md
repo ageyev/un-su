@@ -10,7 +10,7 @@ How to expel the representatives of the Putin's government from the seat of defu
 
 [UN recognition that a UN member state has ceased to exist](https://github.com/ageyev/un-su/blob/main/ceased_to_exist.md)
 
-[Cover letter for resolution and memorandum drafts (Як усунути РФ з ООН та відновити роботу Ради Безпеки)](https://github.com/ageyev/un-su/blob/main/Suprovidny_lyst.md)(in Ukrainian)
+[Як усунути РФ з ООН та відновити роботу Ради Безпеки](https://github.com/ageyev/un-su/blob/main/Suprovidny_lyst.md)(in Ukrainian)
 
 [Звернення до Президента України](https://github.com/ageyev/un-su/blob/main/Zvernennya_do_Prezydenta.md) (in Ukrainian)
 
