@@ -19,3 +19,9 @@ How to expel the representatives of the Putin's government from the seat of defu
 [Wiki](https://github.com/ageyev/un-su/wiki) 
 
 
+Collections on Google Drive: 
+
+[Official documents](https://docs.google.com/document/d/1P7cNv7A5wuQglcoUcR4IyCGg6hdmLw2m/)
+
+[Various articles and publications](https://docs.google.com/document/d/11mJQy5Gr-olVOcdkxJusNKEaR0ySH8Sp/)
+
