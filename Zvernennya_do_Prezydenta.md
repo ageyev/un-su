@@ -1,3 +1,8 @@
+Приєднатися до петиції можна на сайті електронних петицій Президенту України: 
+https://petition.president.gov.ua/petition/161238 
+
+--------------------------
+
 Шановний пане Президенте!
 
 28 червня 2022, на засіданні Ради Безпеки ООН Ви оголосили [промову](https://tsn.ua/politika/potribno-schob-rosiya-pripinila-vbivati-lyudey-povniy-tekst-vistupu-zelenskogo-na-zasidanni-radi-bezpeki-oon-2098462.html), в якій закликали усунути РФ від участі в роботі Генеральної Асамблеї та Ради Безпеки ООН:
