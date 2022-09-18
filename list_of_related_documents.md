@@ -35,7 +35,3 @@ The European Commission for Democracy through Law (the Venice Commission): [Agre
 the Commonwealth of Independent States: Belovezh Accords and Alma Ata protocols](https://github.com/ageyev/un-su/blob/main/documents/cis/alma-alta-commonwealth-of-independent-states-december-1991.pdf)
 
 [Belovezh Accords](https://github.com/ageyev/un-su/blob/main/documents/cis/1991-12-08_Belovezh_Accords_ru.pdf) (in Russian)
-
-
-
-
