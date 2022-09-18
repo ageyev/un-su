@@ -5,7 +5,7 @@
 
 [1947-10-11 Six (Legal) Comittee Letter in connection with the question of the admission of Pakistan to membership in the UN](https://github.com/ageyev/un-su/blob/main/documents/un/1947-10-08_Sixth_Commitee_Letter.pdf)
 
-[1950-07-07 UN SC Resolution 84 (1950)]() (authorized the United States to establish and lead a unified command comprised of military forces from UN member states, and authorized that command to operate under the UN flag)
+[1950-07-07 UN SC Resolution 84 (1950)](https://github.com/ageyev/un-su/blob/main/documents/un/1950-07-07_UN_SC_Resolution_84_1950_en.png) (authorized the United States to establish and lead a unified command comprised of military forces from UN member states, and authorized that command to operate under the UN flag)
 
 [1971-10-25 GA Resolution 2758 (ru)](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf)
 
@@ -19,9 +19,9 @@
 
 [1991-12-30 Buravkin letter to UN with Alma Ata protocols attached](https://github.com/ageyev/un-su/blob/main/documents/un/1991-12-30_Buravkin_to_UN.pdf) 
 
-[1992-09-19 UN SC Resolution 777 (1992)]() (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
+[1992-09-19 UN SC Resolution 777 (1992)](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-19_UN_SC_Resolution_777_1992_en.png) (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
 
-[1992-09-22 UN GA Resolution 44/1 'Recommendation of the Security Council of 19 September 1992'])() (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
+[1992-09-22 UN GA Resolution 44/1 'Recommendation of the Security Council of 19 September 1992'](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-22_UN_GA_Resolution_47-1_1992_en.png) (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
 
 ## Ukraine 
 
@@ -32,9 +32,9 @@
 ## The Commonwealth of Independent States (CIS)
 
 The European Commission for Democracy through Law (the Venice Commission): [Agreements establishing
-the Commonwealth of Independent States: Belovezh Accords and Alma Ata protocols]()
+the Commonwealth of Independent States: Belovezh Accords and Alma Ata protocols](https://github.com/ageyev/un-su/blob/main/documents/cis/alma-alta-commonwealth-of-independent-states-december-1991.pdf)
 
-[Belovezh Accords]() (in Russian)
+[Belovezh Accords](https://github.com/ageyev/un-su/blob/main/documents/cis/1991-12-08_Belovezh_Accords_ru.pdf) (in Russian)
 
 
 
