@@ -7,7 +7,9 @@
 
 [1950-07-07 UN SC Resolution 84 (1950)](https://github.com/ageyev/un-su/blob/main/documents/un/1950-07-07_UN_SC_Resolution_84_1950_en.png) (authorized the United States to establish and lead a unified command comprised of military forces from UN member states, and authorized that command to operate under the UN flag)
 
-[1971-10-25 GA Resolution 2758 (ru)](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf)
+[1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_UN_GA_Resolution_2758_en.png)
+
+[1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf) (in Russian)
 
 [1991-10-19 UN Interoffice Memorandum 'The Soviet Seat on the Security Counsil (Fleischhauer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-10-16_Interoffice_Memorandum_Fleischhauer.pdf)
 
