@@ -21,5 +21,5 @@
 
 [2022-08-23 Letter of Permanent Mission of Ukraine to Secretariat of the UN](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-23_permanent_mission_of_ukraine_to_secretariat_of_the_un.jpg)
 
-[2022-08-31 Letter of MFA of Ukraine to Radinina](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-31_mfa_to_radina.jpg)(in Ukraine)
+[2022-08-31 Letter of MFA of Ukraine to Radinina](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-31_mfa_to_radina.jpg) (in Ukrainian)
 
