@@ -32,7 +32,9 @@
 ## The Commonwealth of Independent States (CIS)
 
 The European Commission for Democracy through Law (the Venice Commission): [Agreements establishing
-the Commonwealth of Independent States]()
+the Commonwealth of Independent States: Belovezh Accords and Alma Ata protocols]()
+
+[Belovezh Accords]() (in Russian)
 
 
 
