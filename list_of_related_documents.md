@@ -31,6 +31,10 @@
 
 [2022-08-31 Letter of MFA of Ukraine to Radinina](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-31_mfa_to_radina.jpg) (in Ukrainian)
 
+## USSR 
+
+[Договор о правопреемстве в отношении внешнего государственного долга и активов Союза ССР](https://ru.wikisource.org/wiki/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BF%D1%80%D0%B5%D0%B5%D0%BC%D1%81%D1%82%D0%B2%D0%B5_%D0%B2_%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0_%D0%B8_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BE%D0%B2_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%A1%D0%A1%D0%A0)
+
 ## The Commonwealth of Independent States (CIS)
 
 The European Commission for Democracy through Law (the Venice Commission): [Agreements establishing the Commonwealth of Independent States Belovezh Accords and Alma Ata protocols](https://github.com/ageyev/un-su/blob/main/documents/cis/alma-alta-commonwealth-of-independent-states-december-1991.pdf)

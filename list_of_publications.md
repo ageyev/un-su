@@ -19,6 +19,11 @@ Dumberry, Patrick. [A GUIDE TO STATE SUCCESSION IN INTERNATIONAL INVESTMENT LAW]
 
 Chinkin, C., & Baetens, F. (Eds.). [Sovereignty, Statehood and State Responsibility](https://www.cambridge.org/core/books/sovereignty-statehood-and-state-responsibility/A6AE621E4278A4802923C2419BC32FCA): Essays in Honour of James Crawford. Cambridge: Cambridge University Press, 2015 
 
+Черниченко С.В. [Является ли Россия продолжателем или правопреемником СССР?](http://sd.net.ua/2005/01/06/javljaetsja_li_rossija_prodolzhatelem_ili_pravopreemnikom_sssr.html),  "Международное право" 2001 №3 с.35
+
+Я. Брынкина [Распад СССР и расширение сотрудничества РФ с ООН в области миротворчества](https://mosgu.ru/nauchnaya/publications/2007/scientificarticles/Brynkina/) Научные труды  Московского гуманитарного университета, Выпуск № 80, 2007
+
+
 ## Removing RF from UN 
 
 Johnson, Larry D. [United Nations Response Options to Russia’s Aggression: Opportunities and Rabbit Holes](https://www.justsecurity.org/80395/united-nations-response-options-to-russias-aggression-opportunities-and-rabbit-holes/) Just Security, March 1, 2022
