@@ -23,7 +23,7 @@
 
 [1992-09-19 UN SC Resolution 777 (1992)](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-19_UN_SC_Resolution_777_1992_en.png) (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
 
-[1992-09-22 UN GA Resolution 44/1 'Recommendation of the Security Council of 19 September 1992'](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-22_UN_GA_Resolution_47-1_1992_en.png) (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
+[1992-09-22 UN GA Resolution 47/1 'Recommendation of the Security Council of 19 September 1992'](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-22_UN_GA_Resolution_47-1_1992_en.png) (Federal Respublic of Yugoslavia (Serbia and Montenegro) case)
 
 ## Ukraine 
 
