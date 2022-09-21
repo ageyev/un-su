@@ -1,11 +1,11 @@
-draft, ver. 1.1.3. 2022-09-04 16:21
+draft, ver. 1.2.0. 2022-09-21 20:21
 
-This memorandum is to be submitted to the General Assembly as the accompanying document to proposed [GA Resolution](/GA_Resolution.md)
+This memorandum is to be submitted to the General Assembly as the accompanying document to proposed [GA Resolution](/GA_Resolution.md) 
 
 -------------------------------------------------------------------------------
 
 Explanatory memorandum accompanying the draft of the General Assembly Resolution 
-===============================================================================
+================================================================================
 
 <!-- MarkdownTOC -->
 
@@ -205,7 +205,6 @@ Charter.
 
 So there is established law in this matter, and practice following this law in all cases. 
 Thus representatives of RF have a place in the UN only because there was no formal discussion or decision on the RF case.  
-
 ## GA Resolution resolution on China as a legal precedent.
 
 Our draft of the GA resolution follows the principles laid by [General Assembly resolution 2758 (XXVI) of 25 October 1971 (Restoration of the lawful rights of the People’s Republic of China in the United Nations)](https://en.wikisource.org/wiki/United_Nations_General_Assembly_Resolution_2758), which was also a decision about removing representatives of a certain government "from the place which they unlawfully occupy at the United Nations" 
