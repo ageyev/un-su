@@ -210,11 +210,13 @@ Thus representatives of RF have a place in the UN only because there was no form
 
 Our draft of the GA resolution follows the principles laid by [General Assembly resolution 2758 (XXVI) of 25 October 1971 (Restoration of the lawful rights of the People’s Republic of China in the United Nations)](https://en.wikisource.org/wiki/United_Nations_General_Assembly_Resolution_2758), which was also a decision about removing representatives of a certain government "from the place which they unlawfully occupy at the United Nations" 
 
-Like it was with General Assembly resolution 2758 (XXVI) of 25 October 1971 this resolution should be considered as a question under Article 18 of the UN Charter ("the suspension of the rights and privileges of membership"), and thus would require a two-thirds supermajority for approval.
+Like it was with General Assembly resolution 2758 (XXVI) of 25 October 1971 this resolution may be considered as a question under Article 18 of the UN Charter ("the suspension of the rights and privileges of membership"), and thus may require a two-thirds supermajority for approval.
 
 > Decisions of the General Assembly on important questions shall be made by a two-thirds majority of the members present and voting. These questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the Security Council, the election of the members of the Economic and Social Council, the election of members of the Trusteeship Council in accordance with paragraph 1(c) of Article 86, the admission of new Members to the United Nations, the suspension of the rights and privileges of membership, the expulsion of Members, questions relating to the operation of the trusteeship system, and budgetary questions. 
 
 (art. 18 [Charter of the United Nations](https://en.wikisource.org/wiki/Charter_of_the_United_Nations#Article_18)) 
+
+But, this question should shold first be decided by a simple majority of votes.
 
 # Possible objections for proposed GA resolution and grounds for their rejection.
 
