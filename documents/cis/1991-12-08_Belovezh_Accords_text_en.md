@@ -64,7 +64,7 @@ They also jointly guarantee the necessary conditions for the deployment and func
 The High Contracting Parties recognize that the sphere of their joint activity, conducted on an equitable basis through common coordinating institutions of the Commonwealth, embraces:
 
 - coordination of foreign policy;
-- cooperation in the formation and development of a common economic space and Europe-wide and Eurasian markets and in the field of customs policy
+- cooperation in the formation and development of a common economic space and Europe-wide and Eurasian markets and in the field of customs policy;
 - cooperation in developing the transport and communications systems;
 - cooperation in the protection of the environment and participation in establishing a comprehensive international system of environmental security;
 - issues of migration policy;
