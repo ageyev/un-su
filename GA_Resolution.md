@@ -1,4 +1,4 @@
-draft, ver. 1.3.0 of 2022-09-21 20:03
+draft, ver. 1.3.1 of 2022-09-22 15:02
 
 See also accompanying [Explanatory memorandum](/Explanatory_memorandum.md)
 
@@ -8,7 +8,7 @@ See also accompanying [Explanatory memorandum](/Explanatory_memorandum.md)
 
 *The General Assembly*,
 
-*Recalling* the UN Charter rules and principles of the international law concerning the succession and continuation of states, which, in particular, were expressed in General Assembly Resolution [2758 (XXVI) of 25.10.1971](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_UN_GA_Resolution_2758_en.png), Security Counsil Resolution [777 (1992) of 19.09.1992](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-19_UN_SC_Resolution_777_1992_en.png)  and General Assemly Resolution [47/1 of 22.09.1992](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-22_UN_GA_Resolution_47-1_1992_en.png)
+*Recalling* the UN Charter rules and principles of the international law concerning the succession and continuation of states, as well as conserning represention of states in UN, which, in particular, were expressed before in General Assembly Resolution [2758 (XXVI) of 25.10.1971](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_UN_GA_Resolution_2758_en.png), Security Counsil Resolution [777 (1992) of 19.09.1992](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-19_UN_SC_Resolution_777_1992_en.png)  and General Assemly Resolution [47/1 of 22.09.1992](https://github.com/ageyev/un-su/blob/main/documents/un/1992-09-22_UN_GA_Resolution_47-1_1992_en.png)
 
 *Considering* the Union of Soviet Socialist Republics as an international legal personality and a subject of international law no longer exists, as it was clearly and unambiguously stated in Belovezh Accords 1991, ratified by states successors of the USSR, including Russian Federation, and also declared in the Alma-Ata Protocols 1991, and confirmed by the Declaration no. 142-N of the Soviet of the Republics of the Supreme Soviet of the USSR,
 
