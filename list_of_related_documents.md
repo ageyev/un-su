@@ -7,9 +7,13 @@
 
 [1950-07-07 UN SC Resolution 84 (1950)](https://github.com/ageyev/un-su/blob/main/documents/un/1950-07-07_UN_SC_Resolution_84_1950_en.png) (authorized the United States to establish and lead a unified command comprised of military forces from UN member states, and authorized that command to operate under the UN flag)
 
+[1971-09-29 A/L.632 draft resolution](https://github.com/ageyev/un-su/blob/main/documents/un/1991-09-29_A_L.632-EN.pdf)
+
+[1971-10-25 General Assembly 1976 Plenary Meeting Official Records](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_official_records.pdf)
+
 [1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_UN_GA_Resolution_2758_en.png)
 
-[1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf) (in Russian)
+[1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf) (in Russian) 
 
 [1991-10-19 UN Interoffice Memorandum 'The Soviet Seat on the Security Counsil (Fleischhauer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-10-16_Interoffice_Memorandum_Fleischhauer.pdf)
 
@@ -40,3 +44,9 @@
 The European Commission for Democracy through Law (the Venice Commission): [Agreements establishing the Commonwealth of Independent States Belovezh Accords and Alma Ata protocols](https://github.com/ageyev/un-su/blob/main/documents/cis/alma-alta-commonwealth-of-independent-states-december-1991.pdf)
 
 [Belovezh Accords](https://github.com/ageyev/un-su/blob/main/documents/cis/1991-12-08_Belovezh_Accords_ru.pdf) (in Russian)
+
+## Russian Federation 
+
+[1991-12-12 Decree of the Supreme Soviet of the RSFSR on the ratification of the Belovezhskaya agreement (in Russion)](https://raw.githubusercontent.com/ageyev/un-su/main/documents/russia/1991-12-12_ratification.jpg) 
+
+[1991-12-24 Letter from the President of the Russian Federation (RSFSR) B. Yeltsin to the Secretary-General of the United Nations Pérez de Cuéllar](https://github.com/ageyev/un-su/blob/main/documents/russia/1991-12-24_Yeltsin_to_UN_SG_ru.pdf) (in Russian)
