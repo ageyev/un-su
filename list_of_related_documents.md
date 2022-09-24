@@ -15,7 +15,7 @@
 
 [1971-10-25 GA Resolution 2758 'Restoration of the lawful rights of the People's Republic China in the United Nations'](https://github.com/ageyev/un-su/blob/main/documents/un/1971-10-25_GA_Resolution_2758_ru.pdf) (in Russian) 
 
-[1991-10-19 UN Interoffice Memorandum 'The Soviet Seat on the Security Counsil (Fleischhauer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-10-16_Interoffice_Memorandum_Fleischhauer.pdf)
+[1991-10-19 UN Interoffice Memorandum 'The Soviet Seat on the Security Counsil (Fleischhauer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-10-19_Interoffice_Memorandum_Fleischhauer.pdf)
 
 [1991-12-23 UN Interoffice Memorandum 'The Union of Soviet Socialist Republics and the UN' (Fleischhaurer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-12-23_Interoffice_Memorandum_Fleischhaurer.pdf)
 
