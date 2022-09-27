@@ -4,9 +4,6 @@ On the 77th Session of the UN General Assembly (UNGA 77) representatives of some
 
 This is indeed a very complex legal problem. We will propose legally possible scenarios for overcoming the right of veto and even removing the Russian Federation from its seat as a permanent member of the Security Council. 
 
----------------------
 
-Viktor Ageyev 
-Lawyer
 
 
