@@ -344,5 +344,3 @@ An effective and legal way to eliminate this situation is the proposed draft of 
 ## Estoppel 
 
 [Tran Thang Long The Application Of Estoppel In International Law And Experiences For Vietnam, Vietnamese Journal of Legal Sciences, Vol 01, No 01, 2019](https://www.researchgate.net/publication/342389272_The_Application_of_Estoppel_in_International_Law_and_Experiences_for_Vietnam/fulltext/5ef21947a6fdcc2404eab194/The-Application-of-Estoppel-in-International-Law-and-Experiences-for-Vietnam.pdf) (see especially 'No objection (lack of protest) or a silence')
-
-
