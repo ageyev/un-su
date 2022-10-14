@@ -33,6 +33,8 @@
 
 ## Ukraine 
 
+[2022-03-04 Note Verbale from the UN Office of Legal Affairs to the Permanent Mission of Ukraine](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-03-04_Note_Verbale_from_the_Office_of_Legal_Affairs_to_the_Permanent_Mission_of_Ukraine.pdf)
+
 [2022-08-23 Letter of Permanent Mission of Ukraine to Secretariat of the UN](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-23_permanent_mission_of_ukraine_to_secretariat_of_the_un.jpg)
 
 [2022-08-31 Letter of MFA of Ukraine to Radinina](https://github.com/ageyev/un-su/blob/main/documents/ukraine/2022-08-31_mfa_to_radina.jpg) (in Ukrainian)
