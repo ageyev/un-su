@@ -199,7 +199,7 @@
 
 Але згідно зі статутом ООН утримання від голосування може бути не тільки добровільним (*voluntary abstention*) як у наведеному прикладі, але й обов'язковим (*obligatory abstention*).
 
-Хоча інститут "обов'язкового утримання від голосування" (*obligatory abstention*) досі ніколи не застосовувався в Раді Безпеки, він базується як на давньому і загальновизнаному юридичному принципі "ніхто не може бути суддею у власній справі" (*[Nemo iudex in causa sua](https://en.wikipedia.org/wiki/Nemo_iudex_in_causa_sua)*) так і, головне, на прямій нормі [ч. 3 ст. 27 Статуту ООН](https://www.un.org/en/about-us/un-charter/chapter-5): 
+Хоча інститут "обов'язкового утримання від голосування" (*obligatory abstention*) досі ніколи не застосовувався в Раді Безпеки, він базується як на давньому і загальновизнаному юридичному принципі "ніхто не судить у своїй справі" (*[nemo iudex in causa sua](https://en.wikipedia.org/wiki/Nemo_iudex_in_causa_sua)*) так і, головне, на прямій нормі [ч. 3 ст. 27 Статуту ООН](https://www.un.org/en/about-us/un-charter/chapter-5): 
 
 > "in decisions under Chapter VI, and under paragraph 3 of Article 52, a party to a dispute shall abstain from voting"
 
@@ -329,4 +329,3 @@ Wikipedia: [International legal personality](https://en.wikipedia.org/wiki/Inter
 Wikipedia: [United Nations Security Council Resolution 777 (1992)](https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_777)
 
 Wikipedia: [United Nations General Assembly Resolution 47/1](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_47/1)  
-

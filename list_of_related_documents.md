@@ -17,7 +17,7 @@
 
 [1991-10-10 UN Interoffice Memorandum 'The Soviet Seat on the Security Counsil (Fleischhauer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-10-10_Interoffice_Memorandum_Fleischhauer.pdf)
 
-[1991-12-19 UN Interoffice Memorandum 'The Union of Soviet Socialist Republics and the UN' (Fleischhaurer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-12-19_Interoffice_Memorandum_Fleischhaurer.pdf)
+[1991-12-19 UN Interoffice Memorandum 'The Union of Soviet Socialist Republics and the UN' (Fleischhaurer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-12-19_Interoffice_memorandum_Fleischhauer.pdf)
 
 [1991-12-23 UN Interoffice Memorandum 'The Union of Soviet Socialist Republics and the UN' (Fleischhaurer)](https://github.com/ageyev/un-su/blob/main/documents/un/1991-12-23_Interoffice_Memorandum_Fleischhaurer.pdf)
 
