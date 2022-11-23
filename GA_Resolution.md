@@ -1,4 +1,4 @@
-draft, ver. 1.4.0 of 2022-10-04 
+draft, ver. 1.4.1 of 2022-11-22
 
 See also accompanying [Explanatory memorandum](/Explanatory_memorandum.md)
 
@@ -24,6 +24,6 @@ See also accompanying [Explanatory memorandum](/Explanatory_memorandum.md)
 
 ...th plenary meeting,
 
-... October 2022 
+... December 2022 
 
 -------------------- 
