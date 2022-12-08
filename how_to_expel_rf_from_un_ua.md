@@ -500,14 +500,16 @@ Wikipedia: [United Nations General Assembly Resolution 47/1 of 22 September 1992
 
 [Michael P. Scharf Musical Chairs: The Dissolution of States and Membership in the United Nations](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=1338&context=cilj)
 
-[Blum, Yehuda Russia Takes Over the Soviet Union's Seat at the United Nations](http://www.ejil.org/article.php?article=2045&issue=102)
+[Blum, Yehuda Russia Takes Over the Soviet Union's Seat at the United Nations](http://www.ejil.org/article.php?article=2045&issue=102), "European Journal of International Law", 1992-08-01
 
-[Виключення Росії з Радбезу ООН - реальність чи фантастика](https://web.archive.org/web/20190529085020/https://tsn.ua/politika/viklyuchennya-rosiyi-z-radbezu-oon-realnist-chi-fantastika-dumki-ekspertiv-411497.html)
+[Виключення Росії з Радбезу ООН - реальність чи фантастика](https://tsn.ua/politika/viklyuchennya-rosiyi-z-radbezu-oon-realnist-chi-fantastika-dumki-ekspertiv-411497.html), "ТСН", 2015-02-24
 
-[В кулуарах ООН вже говорять про можливість позбавлення Росії членства в Радбезі - Сергєєв](https://web.archive.org/web/20190529085043/https://tsn.ua/svit/v-kuluarah-oon-vzhe-govoryat-pro-mozhlivist-pozbavlennya-rosiyi-chlenstva-v-radbezi-sergeyev-410597.html)
+[В кулуарах ООН вже говорять про можливість позбавлення Росії членства в Радбезі - Сергєєв](https://tsn.ua/svit/v-kuluarah-oon-vzhe-govoryat-pro-mozhlivist-pozbavlennya-rosiyi-chlenstva-v-radbezi-sergeyev-410597.html), "ТСН", 2015-02-20 
 
-[Олександр Мережко Як вигнати Росію з ООН?](https://yur-gazeta.com/dumka-eksperta/-yak-vignati-rosiyu-z-oon.html)
+[Олександр Мережко Як вигнати Росію з ООН?](https://yur-gazeta.com/dumka-eksperta/-yak-vignati-rosiyu-z-oon.html), "Юрдична Газета", 2022-05-26 
 
-[Віктор Агєєв Два шляхи вигнати Росію з ООН: як позбавити агресора права вето у Раді безпеки, і не тільки](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/)
+[Денис Маслов Позбавити Росію права вето чи вигнати з Радбезу ООН: замкнуте коло, яке можна розірвати](https://www.pravda.com.ua/columns/2022/11/3/7374796/), "Українська Правда", 2022-11-03
+
+[Віктор Агєєв Два шляхи вигнати Росію з ООН: як позбавити агресора права вето у Раді безпеки, і не тільки](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/), "Європейська Правда", 2022-11-18 
 
 
