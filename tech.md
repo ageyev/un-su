@@ -1,9 +1,9 @@
-## How to view .md files in browser 
+## How to view .md files in browser
 
-install [grip](https://github.com/joeyespo/grip): 
+install [grip](https://github.com/joeyespo/grip) (for Debian based Linux distros): 
 
 ```sh
-sudo apt install python3-pip
+sudo apt install python3-pip && pip3 install grip
 
 ```
 
@@ -16,7 +16,7 @@ python3 -m grip GA_Resolution.md # or other file name
 
 than open in browser http://localhost:6419 
 
-## How to convert .md files 
+## How to convert .md files
 
 install [pandoc](https://pandoc.org): 
 
