@@ -20,6 +20,18 @@ How to expel the representatives of the Putin's government from the seat of defu
 
 [List of related books, articels and publications](https://github.com/ageyev/un-su/blob/main/list_of_publications.md)
 
+----------
+
+### Videos: 
+
+[Как практически убрать РФ из ООН или предолевать "право вето" в Совете Безопасности](https://www.facebook.com/viktor.ageyev/videos/764258705100272/) (Viktor Ageyev) 
+
+----------
+
+### Publications 
+
+Віктор Агєєв [Два шляхи вигнати Росію з ООН: як позбавити агресора права вето у Раді безпеки, і не тільки](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/) // Європейська Правда, 2022-10-18 
+
 ---------- 
 
 [Wiki](https://github.com/ageyev/un-su/wiki) 
@@ -31,4 +43,5 @@ How to expel the representatives of the Putin's government from the seat of defu
 [Official documents](https://docs.google.com/document/d/1P7cNv7A5wuQglcoUcR4IyCGg6hdmLw2m/)
 
 [Various articles and publications](https://docs.google.com/document/d/11mJQy5Gr-olVOcdkxJusNKEaR0ySH8Sp/)
+
 

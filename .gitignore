@@ -1,3 +1,7 @@
+.env 
+
+.~lock.* 
+
 ### Dropbox ###
 
 # Dropbox settings and caches
@@ -9,8 +13,6 @@
 ### GPG ###
 
 secring.*
-
-
 
 ### GitBook ###
 
@@ -30,7 +32,6 @@ _book
 *.epub
 *.mobi
 *.pdf
-
 
 ### JetBrains ###
 
@@ -208,7 +209,6 @@ GitHub.sublime-settings
 
 # Built Visual Studio Code Extensions
 *.vsix
-
 
 ### Windows ###
 
