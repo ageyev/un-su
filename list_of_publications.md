@@ -28,6 +28,8 @@ Chinkin, C., & Baetens, F. (Eds.). [Sovereignty, Statehood and State Responsibil
 
 Johnson, Larry D. [United Nations Response Options to Russia’s Aggression: Opportunities and Rabbit Holes](https://www.justsecurity.org/80395/united-nations-response-options-to-russias-aggression-opportunities-and-rabbit-holes/) Just Security, March 1, 2022
 
+Denis (Dan) Saklakov [Learning from History: The Finnish-Soviet War's Message to Redefine the United Nations](https://www.saklakov.com/blog/learning-from-history) November 30, 2023
+
 ## Veto power in UN Security Council 
 
 Repertory of Practice of United Nations Organs. Charter of the United Nations. [Chapter V - The Security Council, Article 23](https://legal.un.org/repertory/art23.shtml)
