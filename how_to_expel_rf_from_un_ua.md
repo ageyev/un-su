@@ -530,10 +530,10 @@ Wikipedia: [United Nations General Assembly Resolution 47/1 of 22 September 1992
 
 [В кулуарах ООН вже говорять про можливість позбавлення Росії членства в Радбезі - Сергєєв](https://tsn.ua/svit/v-kuluarah-oon-vzhe-govoryat-pro-mozhlivist-pozbavlennya-rosiyi-chlenstva-v-radbezi-sergeyev-410597.html), "ТСН", 2015-02-20 
 
-[Олександр Мережко Як вигнати Росію з ООН?](https://yur-gazeta.com/dumka-eksperta/-yak-vignati-rosiyu-z-oon.html), "Юрдична Газета", 2022-05-26 
+[Олександр Мережко Як вигнати Росію з ООН?](https://yur-gazeta.com/dumka-eksperta/-yak-vignati-rosiyu-z-oon.html), "Юридична Газета", 2022-05-26 
 
 [Денис Маслов Позбавити Росію права вето чи вигнати з Радбезу ООН: замкнуте коло, яке можна розірвати](https://www.pravda.com.ua/columns/2022/11/3/7374796/), "Українська Правда", 2022-11-03
 
-[Віктор Агєєв Два шляхи вигнати Росію з ООН: як позбавити агресора права вето у Раді безпеки, і не тільки](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/), "Європейська Правда", 2022-11-18 
+[Віктор Агєєв Два шляхи вигнати Росію з ООН: як позбавити агресора права вето у Раді безпеки, і не тільки](https://www.eurointegration.com.ua/articles/2022/10/18/7148832/), "Європейська Правда", 2022-10-18 
 
-
+[Как практически убрать РФ из ООН или предолевать "право вето" в Совете Безопасности (Viktor Ageyev)](https://www.facebook.com/watch/?v=764258705100272) - интерьвью на американском русскоязычном канале "Континент" (Elena Vennikov-Prigova)
